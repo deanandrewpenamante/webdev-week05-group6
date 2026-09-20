@@ -1,0 +1,10 @@
+{
+    "name": "webdev/week05-oop-mini-program",
+    "description": "OOP Mini-Program using PHP classes, interface, namespace and Composer PSR-4 autoloading",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
